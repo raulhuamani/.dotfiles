@@ -130,3 +130,6 @@ super + shift + f
 # Open Google-Chrome
 super + shift + g
 				google-chrome
+# Open IntelliJ IDEA
+super + shift + i
+			        /snap/bin/intellij-idea-community

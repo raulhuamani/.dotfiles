@@ -33,6 +33,7 @@ bspc rule -a Screenkey manage=off
 
 feh --bg-fill /home/rhuamani/Escritorio/rhuamani/images/fondo_night.jpg
 ~/.config/polybar/./launch.sh
+wmname LG3D
 bspc config focus_follows_pointer true
 picom --experimental-backends &
 bspc config border_width 0
